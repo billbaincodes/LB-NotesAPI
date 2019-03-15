@@ -30,6 +30,4 @@ public class Note {
         return body;
     }
 
-
-
 }
