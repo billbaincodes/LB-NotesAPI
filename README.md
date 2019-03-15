@@ -1,5 +1,5 @@
 # LB-NotesAPI
-RESTful API meant to power a note taking application.
+RESTful API meant to power a note taking application, built with Java, Spring and Maven.
 
 ### Maven Set Up
 If you have Maven installed clone this repo, navigate into the root folder and from your terminal run:
