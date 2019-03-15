@@ -23,7 +23,7 @@ GET one note by ID
 `localhost:8080/api/notes/{id}`
 
 
-POST create new note route
+POST create new note
 
 `localhost:8080/api/notes`
 
